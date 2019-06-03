@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="45a85fb2-6bab-41c6-8d6a-46c865858158" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../tic-tac-toe-java" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe-java/src/main/com/mundeeppurewal/gametable/GameBoardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe-java/src/main/com/mundeeppurewal/gametable/GameBoardImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tictactoe-java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,6 +64,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
